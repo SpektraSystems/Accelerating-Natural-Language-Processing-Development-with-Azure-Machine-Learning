@@ -3,7 +3,7 @@ In this exercise you will Log into your **jupyterhub portal** using your labvm u
 
 1. Click on Environment Details Tab on this Page to view your Azure Lab credentials details. Use these details to login into the JupyterHub Portal.
 
-      ![](images/username.png)
+     
       
 ### Login to Jupyterhub Portal
 1. Copy the **jupyterhubURL** from your Lab credentials details page and navigate it in a new tab.
