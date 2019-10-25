@@ -17,8 +17,6 @@ In this exercise you will Log into your **jupyterhub portal** using your labvm u
      ![](images/popup.png)
      
 1. Select **npl_gpu** kernal from drop down menu and click on **Set Kernal**.
-
-
      ![](images/nplgpu.png)
      
 1. Please make sure **npl_gpu** cluster is selected on your notebook before running any command in notebook.
