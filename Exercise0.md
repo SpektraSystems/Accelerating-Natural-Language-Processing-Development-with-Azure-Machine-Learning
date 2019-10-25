@@ -5,6 +5,7 @@ In this exercise you will Log into your **jupyterhub portal** using your labvm u
 
      ![](images/username.png)
       
+      
 ### Login to Jupyterhub Portal
 1. Copy the **jupyterhubURL** from your Lab credentials details page and navigate it in a new tab.
 
