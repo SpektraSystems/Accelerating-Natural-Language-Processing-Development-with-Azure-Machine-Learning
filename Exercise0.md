@@ -3,14 +3,14 @@ In this exercise you will Log into your **jupyterhub portal** using your labvm u
 1. Click on Environment Details Tab on this Page to view your Azure Lab credentials details. Use these details to login into the JupyterHub Portal.<br/>
       ![](images/username.png)
 ### Login to Jupyterhub Portal
-1. Copy the **jupyterhub URL** from your Lab credentials details page and navigate it in a new tab.
+1. Copy the **jupyterhubURL** from your Lab credentials details page and navigate it in a new tab.
       ![](images/jupyterurl.png)
 1. Enter your Labvm Admin Username and Labvm Admin Password from your Lab credentials details page in the Jupyterhub login page and click on **Sign In** button.
 
      ![](images/sign1.png)
 1. Now you will be able to see your jupyterhub portal home page. Select the **nlp** folder on jupyterhub portal.
      ![](images/nlp.png)
-1. Select **examples>>text_classification>>tc_transformers_azureml_pipeline** folder and open this
+1. Select **examples>>text_classification>>tc_transformers_azureml_pipeline>>tc_transformers_azureml_pipelines** folder and open this
 **tc_transformers_azureml_pipelines.ipynb** file.
      ![](images/pipeline.png)
 1. After click on **tc_transformers_azureml_pipelines.ipynb**, a new tab will open and you will see a pop-up to select kernal.
