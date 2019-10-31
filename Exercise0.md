@@ -40,6 +40,6 @@
 
 1. Follow all the steps from notebook to finish the exercise.
 
-## NLP Best Practices Repository
+### NLP Best Practices Repository
 
 1. You can find the utils and wrappers used in this lab, in addition to more NLP scenario examples in the GitHub repository: [aka.ms/nlp_ignite](aka.ms/nlp_ignite)
