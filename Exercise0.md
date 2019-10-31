@@ -36,7 +36,7 @@
     ![](images/nplselect.png)   
      
 1.  Fill in the Azure services parameters in the **Define Parameters** section using the corresponding values in the **Environment Details** tab.
-1. click on each cell and execute it by entering **shift + enter** on your keyboard.
+1. Click on each cell and execute it by entering **shift + enter** on your keyboard.
 
 1. Follow all the steps from notebook to finish the exercise.
 
