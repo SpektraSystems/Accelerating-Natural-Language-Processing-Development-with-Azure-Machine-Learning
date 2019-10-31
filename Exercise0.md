@@ -1,4 +1,4 @@
-# Get you Environment details.
+### Get you Environment details.
 
 1. Click on Environment Details Tab on this Page to view your Azure Lab credentials details. Use these details to login into the JupyterHub Portal.
 
