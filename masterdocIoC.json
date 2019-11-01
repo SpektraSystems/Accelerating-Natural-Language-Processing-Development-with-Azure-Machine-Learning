@@ -2,7 +2,7 @@
   {
     "Name": "Automating your infrastructure deployments in the Cloud with Terraform and Azure Pipelines",
     "Language": "English",
-    "BaseURL": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/",
+    "BaseURL": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master",
     "Files": [
       {
         "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/README.md",
