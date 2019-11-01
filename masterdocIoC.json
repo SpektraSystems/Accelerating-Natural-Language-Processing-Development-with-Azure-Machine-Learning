@@ -4,24 +4,25 @@
     "Language": "English",
     "Files": [
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/README.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/README.md",
         "Order": 1
 
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/Ansible/01-Basics/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/Ansible/01-Basics/Guide.md",
         "Order": 2
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/Ansible/02-Variables/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/Ansible/02-Variables/Guide.md",
         "Order": 3
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/Ansible/03-Helpers/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/Ansible/03-Helpers/Guide.md",
         "Order": 4
+
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/Ansible/04-Security/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/Ansible/04-Security/Guide.md",
         "Order": 5
       },
       {
@@ -29,46 +30,48 @@
         "Order": 6
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/ARM%20Template/01%20-%20Basics/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/ARM%20Template/01%20-%20Basics/Guide.md",
         "Order": 7
+
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/ARM%20Template/02%20-%20Variables/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/ARM%20Template/02%20-%20Variables/Guide.md",
         "Order": 8
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/ARM%20Template/03%20-%20Helpers/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/ARM%20Template/03%20-%20Helpers/Guide.md",
         "Order": 9
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/ARM%20Template/04%20-%20Security/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/ARM%20Template/04%20-%20Security/Guide.md",
         "Order": 10
+
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/ARM%20Template/05%20-%20Reusability/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/ARM%20Template/05%20-%20Reusability/Guide.md",
         "Order": 11
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/Terraform/01%20-%20Basics/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/Terraform/01%20-%20Basics/Guide.md",
         "Order": 12
       },
       {
         "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/Terraform/02%20-%20Variables/Guide.md",
         "Order": 13
+
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/Terraform/03%20-%20Helpers/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/Terraform/03%20-%20Helpers/Guide.md",
         "Order": 14
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/Terraform/04%20-%20Security/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/Terraform/04%20-%20Security/Guide.md",
         "Order": 15
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/Terraform/05%20-%20Reusability/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/Terraform/05%20-%20Reusability/Guide.md",
         "Order": 16
       }
-
 
     ]
   }
