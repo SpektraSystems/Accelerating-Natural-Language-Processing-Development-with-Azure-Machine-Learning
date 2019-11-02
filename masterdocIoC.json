@@ -31,7 +31,7 @@
 		"RawFileBaseURL": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/tree/master/Ansible/04-Security"
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/Ansible/05-Reusability/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/Ansible/05-Reusability/Guide.md",
         "Order": 6,
 		"RawFileBaseURL": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/tree/master/05-Reusability"
       },
@@ -67,7 +67,7 @@
 		"RawFileBaseURL": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/tree/master/Terraform/01%20-%20Basics"
       },
       {
-        "RawFilePath": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/blob/master/Terraform/02%20-%20Variables/Guide.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/Terraform/02%20-%20Variables/Guide.md",
         "Order": 13,
 		"RawFileBaseURL": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/tree/master/Terraform/02%20-%20Variables"
       },
