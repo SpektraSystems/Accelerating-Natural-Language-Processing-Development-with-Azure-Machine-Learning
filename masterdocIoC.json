@@ -33,7 +33,7 @@
       {
         "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/Ansible/05-Reusability/Guide.md",
         "Order": 6,
-		"RawFileBaseURL": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/tree/master/05-Reusability"
+		"RawFileBaseURL": "https://github.com/Azure/Ignite2019_IaC_pre-day_docs/tree/master/Ansible/05-Reusability"
       },
       {
         "RawFilePath": "https://raw.githubusercontent.com/Azure/Ignite2019_IaC_pre-day_docs/master/ARM%20Template/01%20-%20Basics/Guide.md",
