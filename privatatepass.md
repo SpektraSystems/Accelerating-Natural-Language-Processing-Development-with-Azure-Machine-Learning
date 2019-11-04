@@ -1,26 +1,33 @@
 [
   {
+  
     "Name": "Ignite2019-PrivateLinkHOL",
+    
     "Language": "English",
     "BaseURL": "https://github.com/microsoft/Ignite2019-PrivateLinkHOL/tree/master/",
     "Files": [
+    
       {
         "RawFilePath": "https://raw.githubusercontent.com/microsoft/Ignite2019-PrivateLinkHOL/master/Primary_Goal/Overview.md",
         "Order": 1,
-		"RawFileBaseURL": "https://github.com/microsoft/Ignite2019-PrivateLinkHOL/master/Primary_Goal/Overview.md"
+	"RawFileBaseURL": "https://github.com/microsoft/Ignite2019-PrivateLinkHOL/master/Primary_Goal/Overview.md"
       },
+      
       {
         "RawFilePath": "https://raw.githubusercontent.com/microsoft/Ignite2019-PrivateLinkHOL/master/Primary_Goal/Step1.md",
         "Order": 2,
 		"RawFileBaseURL":"https://github.com/microsoft/Ignite2019-PrivateLinkHOL/master/Primary_Goal/Step1.md"
       },
+      
       {
         "RawFilePath": "https://raw.githubusercontent.com/microsoft/Ignite2019-PrivateLinkHOL/master/Primary_Goal/Step2.md",
         "Order": 3,
 		"RawFileBaseURL": "https://github.com/microsoft/Ignite2019-PrivateLinkHOL/master/Primary_Goal/Step2.md"
       },
+      
       {
         "RawFilePath": "https://raw.githubusercontent.com/microsoft/Ignite2019-PrivateLinkHOL/master/Primary_Goal/Step3.md",
+
         "Order": 4,
 		"RawFileBaseURL": "https://github.com/microsoft/Ignite2019-PrivateLinkHOL/master/Primary_Goal/Step3.md"
 
