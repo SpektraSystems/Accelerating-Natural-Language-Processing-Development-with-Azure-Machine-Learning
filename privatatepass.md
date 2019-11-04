@@ -1,11 +1,8 @@
 [
   {
     "Name": "Ignite2019-PrivateLinkHOL",
-    
     "Language": "English",
-    
     "BaseURL": "https://github.com/microsoft/Ignite2019-PrivateLinkHOL/tree/master/"
-    
     "Files": [
       {
         "RawFilePath": "https://raw.githubusercontent.com/microsoft/Ignite2019-PrivateLinkHOL/master/Primary_Goal/Overview.md",
